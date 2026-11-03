@@ -11,11 +11,11 @@
 
 ### 👨‍💻 About Me
 
-Artificial Intelligence and Machine Learning specialist focused on creating autonomous multi-modal AI systems, reinforcement learning agents, and deep learning architectures.
+Artificial Intelligence and Machine Learning specialist focused on creating autonomous multi-modal systems, multi-agent environmental forecasting platforms, and deep learning architectures.
 
+- 📄 **Environmental Intelligence:** Agentic AI for Real-Time Air Quality Prediction ($R^2 = 0.9929$, XGBoost, SHAP, Multi-Agent System)
 - 🎓 **Final Year Project (FYP):** HireGenAI — AI-Powered Autonomous Interview & Candidate Assessment System with 3D Avatar, Real-Time Speech/Vision Proctoring, and Automated Diagnostic Evaluation
 - 🏆 **Harvard CS50 AI:** 12/12 Projects Submitted and Verified with 100% Autograder Score
-- 🚀 **Specialization:** Deep Learning Classifiers, LLM Adaptive Dialogues, Computer Vision, and Speech Recognition
 
 ---
 
@@ -36,21 +36,20 @@ Artificial Intelligence and Machine Learning specialist focused on creating auto
     <td>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/XGBoost-orange?style=flat-square"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
       <img src="https://img.shields.io/badge/Three.js-3D-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/>
-      <img src="https://img.shields.io/badge/YOLOv8-Pose-00FFFF?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td width="20%"><b>AI Principles</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Multi--Agent%20Systems-LangChain-teal?style=flat-square"/>
       <img src="https://img.shields.io/badge/LLM-Groq%20LLaMA--3.1-orange?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Speech-Whisper%20%26%20Vosk-teal?style=flat-square"/>
       <img src="https://img.shields.io/badge/Search-BFS%20%2F%20Minimax-orange?style=flat-square"/>
       <img src="https://img.shields.io/badge/Probability-Bayesian%20Networks%20%26%20PageRank-blue?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Optimization-Constraint%20Satisfaction%20(AC--3)-yellow?style=flat-square"/>
       <img src="https://img.shields.io/badge/Learning-Q--Learning%20%26%20k--NN-crimson?style=flat-square"/>
     </td>
   </tr>
@@ -63,6 +62,15 @@ Artificial Intelligence and Machine Learning specialist focused on creating auto
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/waseemqasim804-pk/Agentic-AI-Air-Quality-Prediction">Agentic AI for Real-Time Air Quality Prediction</a></h3>
+      <p>An autonomous environmental intelligence system integrating an <b>XGBoost</b> regressor ($R^2 = 0.9929$, $MAE = 0.85$), <b>SHAP</b> explainable AI, asynchronous <b>FastAPI</b> backend, and a <b>LangChain multi-agent framework</b> with Streamlit dashboard and simulated IoT sensor network.</p>
+      <p>
+        <img src="https://img.shields.io/badge/XGBoost-R%C2%B2%3D0.9929-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Multi--Agent-LangChain-teal?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FastAPI-Streamlit-009688?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🎯 <a href="https://github.com/waseemqasim804-pk/FYP-HireGenAI-AI-Powered-Interview-System">FYP: HireGenAI — AI Powered Interview System</a></h3>
       <p><b>Final Year Project:</b> Multi-modal AI recruitment platform with a <b>3D virtual interviewer avatar (Three.js)</b>, speech recognition (Vosk/Whisper), dynamic question generation (Groq LLaMA-3.1), proctoring & gaze tracking (MediaPipe & YOLOv8), and automated PDF evaluation reports.</p>
       <p>
@@ -71,16 +79,16 @@ Artificial Intelligence and Machine Learning specialist focused on creating auto
         <img src="https://img.shields.io/badge/MediaPipe-YOLOv8-0097A7?style=flat-square"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/waseemqasim804-pk/CS50AI-Artificial-Intelligence-Projects">Harvard CS50AI: 12-Project Portfolio</a></h3>
+      <h3>🧠 <a href="https://github.com/waseemqasim804-pk/Harvards-CS50-Artificial-Intelligence-Projects">Harvard CS50AI: 12-Project Master Portfolio</a></h3>
       <p>Complete suite of 12 Artificial Intelligence implementations: Graph Search (Degrees), Minimax Game AI (TicTacToe), Knowledge Inference (Knights & Minesweeper), Markov Chains (PageRank), Bayesian Networks (Heredity), Constraint Satisfaction (Crossword), Supervised ML (Shopping), Q-Learning (Nim), Deep CNNs (Traffic), and Transformers (Attention).</p>
       <p>
         <img src="https://img.shields.io/badge/CS50%20AI-100%25%20Verified-brightgreen?style=flat-square"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📄 <a href="https://github.com/waseemqasim804-pk/RAG-interview-assistant">RAG Interview Assistant</a></h3>
       <p>An intelligent retrieval-augmented generation assistant for interview preparation, synthesizing semantic knowledge retrieval with real-time conversational reasoning.</p>
@@ -88,8 +96,6 @@ Artificial Intelligence and Machine Learning specialist focused on creating auto
         <img src="https://img.shields.io/badge/NLP-RAG-blue?style=flat-square"/>
         <img src="https://img.shields.io/badge/Vector%20Search-Embeddings-purple?style=flat-square"/>
       </p>
-    </td>
-    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
