@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,11,14&height=220&section=header&text=Waseem%20Qasim&fontSize=60&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,11,14&height=220&section=header&text=Waseem%20Qasim&fontSize=60&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20Developer&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
@@ -11,10 +11,11 @@
 
 ### 👨‍💻 About Me
 
-Artificial Intelligence and Machine Learning specialist focused on creating autonomous multi-modal systems, multi-agent environmental forecasting platforms, and deep learning architectures.
+Artificial Intelligence and Full-Stack Software specialist focused on creating autonomous multi-modal systems, multi-agent environmental forecasting platforms, enterprise business analytics, and deep learning architectures.
 
 - 📄 **Environmental Intelligence:** Agentic AI for Real-Time Air Quality Prediction ($R^2 = 0.9929$, XGBoost, SHAP, Multi-Agent System)
 - 🎓 **Final Year Project (FYP):** HireGenAI — AI-Powered Autonomous Interview & Candidate Assessment System with 3D Avatar, Real-Time Speech/Vision Proctoring, and Automated Diagnostic Evaluation
+- 📊 **Enterprise Web Platforms:** BizIntel — Full-Stack Business Intelligence & Sales Analytics Platform (React 18, Chart.js, Express, Sequelize, MySQL)
 - 🏆 **Harvard CS50 AI:** 12/12 Projects Submitted and Verified with 100% Autograder Score
 
 ---
@@ -26,8 +27,8 @@ Artificial Intelligence and Machine Learning specialist focused on creating auto
     <td width="20%"><b>Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
     </td>
   </tr>
@@ -38,9 +39,11 @@ Artificial Intelligence and Machine Learning specialist focused on creating auto
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/XGBoost-orange?style=flat-square"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Three.js-3D-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/>
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -82,19 +85,20 @@ Artificial Intelligence and Machine Learning specialist focused on creating auto
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/waseemqasim804-pk/Harvards-CS50-Artificial-Intelligence-Projects">Harvard CS50AI: 12-Project Portfolio</a></h3>
+      <h3>📊 <a href="https://github.com/waseemqasim804-pk/BizIntel-Business-Analytics-Platform">BizIntel: Business Intelligence & Sales Analytics</a></h3>
+      <p>Full-stack enterprise analytics platform featuring dynamic <b>Chart.js</b> visualizations (Bar, Line, Pie), executive revenue KPI tracking, product velocity monitoring, inventory anomaly alerts, and secure JWT authentication backed by <b>Sequelize ORM & MySQL</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React%2018-Vite-61DAFB?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Node.js-Express-339933?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Sequelize-MySQL-52B0E7?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/waseemqasim804-pk/Harvards-CS50-Artificial-Intelligence-Projects">Harvard CS50AI: 12-Project Master Portfolio</a></h3>
       <p>Complete suite of 12 Artificial Intelligence implementations: Graph Search (Degrees), Minimax Game AI (TicTacToe), Knowledge Inference (Knights & Minesweeper), Markov Chains (PageRank), Bayesian Networks (Heredity), Constraint Satisfaction (Crossword), Supervised ML (Shopping), Q-Learning (Nim), Deep CNNs (Traffic), and Transformers (Attention).</p>
       <p>
         <img src="https://img.shields.io/badge/CS50%20AI-100%25%20Verified-brightgreen?style=flat-square"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/waseemqasim804-pk/RAG-interview-assistant">RAG Interview Assistant</a></h3>
-      <p>An intelligent retrieval-augmented generation assistant for interview preparation, synthesizing semantic knowledge retrieval with real-time conversational reasoning.</p>
-      <p>
-        <img src="https://img.shields.io/badge/NLP-RAG-blue?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Vector%20Search-Embeddings-purple?style=flat-square"/>
       </p>
     </td>
   </tr>
