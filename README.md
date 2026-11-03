@@ -62,20 +62,20 @@ Artificial Intelligence and Full-Stack Software specialist focused on creating a
 
 ---
 
-### 🌟 All Featured Projects Portfolio
+### 🌟 Featured Projects Portfolio
 
 #### 🏆 Flagship AI & Systems
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/waseemqasim804-pk/Agentic-AI-Air-Quality-Prediction">Agentic AI for Real-Time Air Quality Prediction</a></h3>
-      <p>An autonomous environmental intelligence system integrating an <b>XGBoost</b> regressor (<b>R² = 0.9929</b>, MAE = 0.85), <b>SHAP</b> explainable AI, asynchronous <b>FastAPI</b> backend, and a <b>LangChain multi-agent framework</b> with Streamlit dashboard and simulated IoT sensor network.</p>
+     <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/waseemqasim804-pk/Harvards-CS50-Artificial-Intelligence-Projects">Harvard CS50AI: 12-Project Master Portfolio</a></h3>
+      <p>Complete suite of 12 Artificial Intelligence implementations: Graph Search (Degrees), Minimax Game AI (TicTacToe), Knowledge Inference (Knights & Minesweeper), Markov Chains (PageRank), Bayesian Networks (Heredity), Constraint Satisfaction (Crossword), Supervised ML (Shopping), Q-Learning (Nim), Deep CNNs (Traffic), and Transformers (Attention).</p>
       <p>
-        <img src="https://img.shields.io/badge/XGBoost-R%C2%B2%3D0.9929-orange?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Multi--Agent-LangChain-teal?style=flat-square"/>
-        <img src="https://img.shields.io/badge/FastAPI-Streamlit-009688?style=flat-square"/>
+        <img src="https://img.shields.io/badge/CS50%20AI-100%25%20Verified-brightgreen?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
     </td>
+   
     <td width="50%" valign="top">
       <h3>🎯 <a href="https://github.com/waseemqasim804-pk/FYP-HireGenAI-AI-Powered-Interview-System">FYP: HireGenAI — AI Powered Interview System</a></h3>
       <p><b>Final Year Project:</b> Multi-modal AI recruitment platform with a <b>3D virtual interviewer avatar (Three.js)</b>, speech recognition (Vosk/Whisper), dynamic question generation (Groq LLaMA-3.1), proctoring & gaze tracking (MediaPipe & YOLOv8), and automated PDF evaluation reports.</p>
@@ -106,19 +106,21 @@ Artificial Intelligence and Full-Stack Software specialist focused on creating a
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/waseemqasim804-pk/Harvards-CS50-Artificial-Intelligence-Projects">Harvard CS50AI: 12-Project Master Portfolio</a></h3>
-      <p>Complete suite of 12 Artificial Intelligence implementations: Graph Search (Degrees), Minimax Game AI (TicTacToe), Knowledge Inference (Knights & Minesweeper), Markov Chains (PageRank), Bayesian Networks (Heredity), Constraint Satisfaction (Crossword), Supervised ML (Shopping), Q-Learning (Nim), Deep CNNs (Traffic), and Transformers (Attention).</p>
-      <p>
-        <img src="https://img.shields.io/badge/CS50%20AI-100%25%20Verified-brightgreen?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </p>
-    </td>
+   
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/waseemqasim804-pk/project1">Full-Stack Application (Project 1)</a></h3>
       <p>Full-stack modular web application implementing responsive design, RESTful API architecture, and database integrations.</p>
       <p>
         <img src="https://img.shields.io/badge/Full%20Stack-Web-success?style=flat-square"/>
+      </p>
+    </td>
+     <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/waseemqasim804-pk/Agentic-AI-Air-Quality-Prediction">Agentic AI for Real-Time Air Quality Prediction</a></h3>
+      <p>An autonomous environmental intelligence system integrating an <b>XGBoost</b> regressor (<b>R² = 0.9929</b>, MAE = 0.85), <b>SHAP</b> explainable AI, asynchronous <b>FastAPI</b> backend, and a <b>LangChain multi-agent framework</b> with Streamlit dashboard and simulated IoT sensor network.</p>
+      <p>
+        <img src="https://img.shields.io/badge/XGBoost-R%C2%B2%3D0.9929-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Multi--Agent-LangChain-teal?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FastAPI-Streamlit-009688?style=flat-square"/>
       </p>
     </td>
   </tr>
