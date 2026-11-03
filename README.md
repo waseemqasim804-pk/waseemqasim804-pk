@@ -17,6 +17,7 @@ Artificial Intelligence and Full-Stack Software specialist focused on creating a
 - 🎓 **Final Year Project (FYP):** HireGenAI — AI-Powered Autonomous Interview & Candidate Assessment System with 3D Avatar, Real-Time Speech/Vision Proctoring, and Automated Diagnostic Evaluation
 - 📊 **Enterprise Web Platforms:** BizIntel — Full-Stack Business Intelligence & Sales Analytics Platform (React 18, Chart.js, Express, Sequelize, MySQL)
 - 🏆 **Harvard CS50 AI:** 12/12 Projects Submitted and Verified with 100% Autograder Score
+- 🔍 **RAG Systems:** Retrieval-Augmented Generation with LangChain, FAISS & LLMs
 
 ---
 
@@ -50,6 +51,7 @@ Artificial Intelligence and Full-Stack Software specialist focused on creating a
     <td width="20%"><b>AI Principles</b></td>
     <td>
       <img src="https://img.shields.io/badge/Multi--Agent%20Systems-LangChain-teal?style=flat-square"/>
+      <img src="https://img.shields.io/badge/RAG-Vector%20Search%20(FAISS)-blue?style=flat-square"/>
       <img src="https://img.shields.io/badge/LLM-Groq%20LLaMA--3.1-orange?style=flat-square"/>
       <img src="https://img.shields.io/badge/Search-BFS%20%2F%20Minimax-orange?style=flat-square"/>
       <img src="https://img.shields.io/badge/Probability-Bayesian%20Networks%20%26%20PageRank-blue?style=flat-square"/>
@@ -60,13 +62,14 @@ Artificial Intelligence and Full-Stack Software specialist focused on creating a
 
 ---
 
-### 🌟 Featured Flagship Projects
+### 🌟 All Featured Projects Portfolio
 
+#### 🏆 Flagship AI & Systems
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>📄 <a href="https://github.com/waseemqasim804-pk/Agentic-AI-Air-Quality-Prediction">Agentic AI for Real-Time Air Quality Prediction</a></h3>
-      <p>An autonomous environmental intelligence system integrating an <b>XGBoost</b> regressor ($R^2 = 0.9929$, $MAE = 0.85$), <b>SHAP</b> explainable AI, asynchronous <b>FastAPI</b> backend, and a <b>LangChain multi-agent framework</b> with Streamlit dashboard and simulated IoT sensor network.</p>
+      <p>An autonomous environmental intelligence system integrating an <b>XGBoost</b> regressor (<b>R² = 0.9929</b>, MAE = 0.85), <b>SHAP</b> explainable AI, asynchronous <b>FastAPI</b> backend, and a <b>LangChain multi-agent framework</b> with Streamlit dashboard and simulated IoT sensor network.</p>
       <p>
         <img src="https://img.shields.io/badge/XGBoost-R%C2%B2%3D0.9929-orange?style=flat-square"/>
         <img src="https://img.shields.io/badge/Multi--Agent-LangChain-teal?style=flat-square"/>
@@ -94,11 +97,28 @@ Artificial Intelligence and Full-Stack Software specialist focused on creating a
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>🔍 <a href="https://github.com/waseemqasim804-pk/RAG-interview-assistant">RAG Interview Assistant</a></h3>
+      <p>An intelligent retrieval-augmented generation assistant for interview preparation, synthesizing semantic knowledge retrieval with real-time conversational reasoning using LangChain, FAISS vector embeddings, and LLMs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/NLP-RAG-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Vector%20Search-Embeddings-purple?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/waseemqasim804-pk/Harvards-CS50-Artificial-Intelligence-Projects">Harvard CS50AI: 12-Project Master Portfolio</a></h3>
       <p>Complete suite of 12 Artificial Intelligence implementations: Graph Search (Degrees), Minimax Game AI (TicTacToe), Knowledge Inference (Knights & Minesweeper), Markov Chains (PageRank), Bayesian Networks (Heredity), Constraint Satisfaction (Crossword), Supervised ML (Shopping), Q-Learning (Nim), Deep CNNs (Traffic), and Transformers (Attention).</p>
       <p>
         <img src="https://img.shields.io/badge/CS50%20AI-100%25%20Verified-brightgreen?style=flat-square"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/waseemqasim804-pk/project1">Full-Stack Application (Project 1)</a></h3>
+      <p>Full-stack modular web application implementing responsive design, RESTful API architecture, and database integrations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Full%20Stack-Web-success?style=flat-square"/>
       </p>
     </td>
   </tr>
