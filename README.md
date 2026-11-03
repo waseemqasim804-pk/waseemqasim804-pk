@@ -11,11 +11,11 @@
 
 ### 👨‍💻 About Me
 
-Artificial Intelligence and Machine Learning specialist focused on creating robust algorithmic solutions, reinforcement learning systems, and deep learning architectures. Certified in **Harvard CS50's Introduction to Artificial Intelligence with Python** with an officially verified 100% completion across all modules.
+Artificial Intelligence and Machine Learning specialist focused on creating autonomous multi-modal AI systems, reinforcement learning agents, and deep learning architectures.
 
-- 🎓 **Focus:** Artificial Intelligence, Computer Vision, Probabilistic Inference, and Retrieval-Augmented Generation
-- 🏆 **Harvard CS50 AI:** 12/12 Projects Submitted and Verified with 100% Grade
-- 🚀 **Core Interests:** Deep Learning Classifiers, Transformer Attention, and Autonomous Game AI
+- 🎓 **Final Year Project (FYP):** HireGenAI — AI-Powered Autonomous Interview & Candidate Assessment System with 3D Avatar, Real-Time Speech/Vision Proctoring, and Automated Diagnostic Evaluation
+- 🏆 **Harvard CS50 AI:** 12/12 Projects Submitted and Verified with 100% Autograder Score
+- 🚀 **Specialization:** Deep Learning Classifiers, LLM Adaptive Dialogues, Computer Vision, and Speech Recognition
 
 ---
 
@@ -27,6 +27,7 @@ Artificial Intelligence and Machine Learning specialist focused on creating robu
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
     </td>
   </tr>
@@ -35,22 +36,22 @@ Artificial Intelligence and Machine Learning specialist focused on creating robu
     <td>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NLTK-154f5b?style=flat-square"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Three.js-3D-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/>
+      <img src="https://img.shields.io/badge/YOLOv8-Pose-00FFFF?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td width="20%"><b>AI Principles</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Search-BFS%20%2F%20Minimax%20w%2F%20Alpha--Beta-orange?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Logic-Propositional%20Model%20Checking-purple?style=flat-square"/>
+      <img src="https://img.shields.io/badge/LLM-Groq%20LLaMA--3.1-orange?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Speech-Whisper%20%26%20Vosk-teal?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Search-BFS%20%2F%20Minimax-orange?style=flat-square"/>
       <img src="https://img.shields.io/badge/Probability-Bayesian%20Networks%20%26%20PageRank-blue?style=flat-square"/>
       <img src="https://img.shields.io/badge/Optimization-Constraint%20Satisfaction%20(AC--3)-yellow?style=flat-square"/>
       <img src="https://img.shields.io/badge/Learning-Q--Learning%20%26%20k--NN-crimson?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Transformers-BERT%20Attention%20Mechanisms-teal?style=flat-square"/>
     </td>
   </tr>
 </table>
@@ -62,14 +63,24 @@ Artificial Intelligence and Machine Learning specialist focused on creating robu
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🎯 <a href="https://github.com/waseemqasim804-pk/FYP-HireGenAI-AI-Powered-Interview-System">FYP: HireGenAI — AI Powered Interview System</a></h3>
+      <p><b>Final Year Project:</b> Multi-modal AI recruitment platform with a <b>3D virtual interviewer avatar (Three.js)</b>, speech recognition (Vosk/Whisper), dynamic question generation (Groq LLaMA-3.1), proctoring & gaze tracking (MediaPipe & YOLOv8), and automated PDF evaluation reports.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React%2018-Three.js-61DAFB?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FastAPI-Python-3776AB?style=flat-square"/>
+        <img src="https://img.shields.io/badge/MediaPipe-YOLOv8-0097A7?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/waseemqasim804-pk/CS50AI-Artificial-Intelligence-Projects">Harvard CS50AI: 12-Project Master Portfolio</a></h3>
       <p>Complete suite of 12 Artificial Intelligence implementations: Graph Search (Degrees), Minimax Game AI (TicTacToe), Knowledge Inference (Knights & Minesweeper), Markov Chains (PageRank), Bayesian Networks (Heredity), Constraint Satisfaction (Crossword), Supervised ML (Shopping), Q-Learning (Nim), Deep CNNs (Traffic), and Transformers (Attention).</p>
       <p>
         <img src="https://img.shields.io/badge/CS50%20AI-100%25%20Verified-brightgreen?style=flat-square"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Deep%20Learning-CNNs-orange?style=flat-square"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📄 <a href="https://github.com/waseemqasim804-pk/RAG-interview-assistant">RAG Interview Assistant</a></h3>
       <p>An intelligent retrieval-augmented generation assistant for interview preparation, synthesizing semantic knowledge retrieval with real-time conversational reasoning.</p>
@@ -77,6 +88,8 @@ Artificial Intelligence and Machine Learning specialist focused on creating robu
         <img src="https://img.shields.io/badge/NLP-RAG-blue?style=flat-square"/>
         <img src="https://img.shields.io/badge/Vector%20Search-Embeddings-purple?style=flat-square"/>
       </p>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
