@@ -68,7 +68,7 @@ I believe in learning by building, solving real problems, and continuously impro
 <table>
   <tr>
     <td valign="top">
-      <h3>🎓 Bachelor of Science in Computer Science</h3>
+      <h3> Bachelor of Science in Computer Science</h3>
       <b>The University of Lahore</b> · Lahore, Pakistan<br/>
       <sub>📅 February 2022 – February 2026</sub><br/><br/>
       🏅 <b>CGPA:</b> 3.67 / 4.00
@@ -92,13 +92,14 @@ I believe in learning by building, solving real problems, and continuously impro
     <td width="33%" valign="top">
       <h3>🧠 AI/ML Trainee</h3>
       <b>NETSOL Technologies Limited</b><br/>
-      <sub>📜 NAVTTC-Certified Program</sub><br/>
+            <sub>📍 Lahore, Pakistan</sub><br/>
       <sub>📅 Mar 2026 – Jun 2026</sub>
       <p><small>Trained in data preprocessing, predictive modeling, machine learning, NLP, LLMs, RAG, model evaluation, and fine-tuning.</small></p>
     </td>
     <td width="33%" valign="top">
       <h3>⚛️ React Developer Intern</h3>
       <b>Bright-Line Solutions (Pvt.) Ltd.</b><br/>
+            <sub>📍 Lahore, Pakistan</sub><br/>
       <sub>📅 September 2025</sub>
       <p><small>Developed practical frontend development skills using React.js, contributing to interface development and assigned application tasks.</small></p>
     </td>
