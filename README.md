@@ -65,38 +65,45 @@ I believe in learning by building, solving real problems, and continuously impro
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science**
-The University of Lahore, Lahore, Pakistan
-February 2022 - February 2026
-
-**CGPA:** 3.67 / 4.00
+<table>
+  <tr>
+    <td valign="top">
+      <h3>🎓 Bachelor of Science in Computer Science</h3>
+      <b>The University of Lahore</b> · Lahore, Pakistan<br/>
+      <sub>📅 February 2022 – February 2026</sub><br/><br/>
+      🏅 <b>CGPA:</b> 3.67 / 4.00
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💼 Professional Experience
 
-### AI Intern | EnigmaDesk
-
-**Lahore, Pakistan | July 2026 - September 2026**
-
-* Worked with the AI and Data Intelligence team on assigned projects.
-* Applied AI concepts to practical development tasks.
-* Gained hands-on exposure to AI and data intelligence workflows.
-
-### AI/ML Trainee | NETSOL Technologies Limited
-
-**NAVTTC-Certified Program | March 2026 - June 2026**
-
-* Practiced data preprocessing, analysis, and predictive modeling.
-* Studied machine learning model development, training, and evaluation.
-* Explored NLP, LLMs, RAG, and model fine-tuning.
-
-### React Developer Intern | Bright-Line Solutions (Pvt.) Ltd.
-
-**September 2025**
-
-* Developed practical skills in React.js and frontend development.
-* Worked on assigned interface and application development tasks.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🤖 AI Intern</h3>
+      <b>EnigmaDesk</b><br/>
+      <sub>📍 Lahore, Pakistan</sub><br/>
+      <sub>📅 Jul 2026 – Sep 2026</sub>
+      <p><small>Collaborated with the AI and Data Intelligence team, applying AI concepts to practical development tasks and gaining exposure to real-world AI workflows.</small></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧠 AI/ML Trainee</h3>
+      <b>NETSOL Technologies Limited</b><br/>
+      <sub>📜 NAVTTC-Certified Program</sub><br/>
+      <sub>📅 Mar 2026 – Jun 2026</sub>
+      <p><small>Trained in data preprocessing, predictive modeling, machine learning, NLP, LLMs, RAG, model evaluation, and fine-tuning.</small></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚛️ React Developer Intern</h3>
+      <b>Bright-Line Solutions (Pvt.) Ltd.</b><br/>
+      <sub>📅 September 2025</sub>
+      <p><small>Developed practical frontend development skills using React.js, contributing to interface development and assigned application tasks.</small></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
