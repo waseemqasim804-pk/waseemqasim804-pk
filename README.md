@@ -1,143 +1,390 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,11,14&height=220&section=header&text=Waseem%20Qasim&fontSize=60&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20Developer&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%"/>
-</div>
 
-<div align="center">
-  <a href="https://github.com/waseemqasim804-pk"><img src="https://img.shields.io/badge/GitHub-waseemqasim804--pk-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge"/>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:164E63,100:2563EB&text=Muhammad%20Waseem%20Qasim&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Developer&descAlignY=59&descSize=19&animation=fadeIn"/>
+
+<a href="https://github.com/waseemqasim804-pk">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+intelligent+software+solutions;Exploring+AI%2C+Machine+Learning+%26+LLMs;Turning+ideas+into+practical+applications;Learning%2C+building%2C+and+improving+every+day" alt="Typing introduction"/>
+</a>
 
 <br/>
 
-### 👨‍💻 About Me
+<a href="https://github.com/waseemqasim804-pk">
+<img src="https://img.shields.io/badge/GitHub-waseemqasim804--pk-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/waseem-qasim">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:muhammadwaseemqasim8612@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Artificial Intelligence and Full-Stack Software specialist focused on creating autonomous multi-modal systems, multi-agent environmental forecasting platforms, enterprise business analytics, and deep learning architectures.
+<img src="https://komarev.com/ghpvc/?username=waseemqasim804-pk&label=PROFILE+VIEWS&color=0E7490&style=flat-square" alt="Profile views"/>
 
-- 📄 **Environmental Intelligence:** Agentic AI for Real-Time Air Quality Prediction ($R^2 = 0.9929$, XGBoost, SHAP, Multi-Agent System)
-- 🎓 **Final Year Project (FYP):** HireGenAI — AI-Powered Autonomous Interview & Candidate Assessment System with 3D Avatar, Real-Time Speech/Vision Proctoring, and Automated Diagnostic Evaluation
-- 📊 **Enterprise Web Platforms:** BizIntel — Full-Stack Business Intelligence & Sales Analytics Platform (React 18, Chart.js, Express, Sequelize, MySQL)
-- 🏆 **Harvard CS50 AI:** 12/12 Projects Submitted and Verified with 100% Autograder Score
-- 🔍 **RAG Systems:** Retrieval-Augmented Generation with LangChain, FAISS & LLMs
-
----
-
-### 🛠 Technical Skillset
-
-<table align="center" width="100%">
-  <tr>
-    <td width="20%"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%"><b>Frameworks & ML</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/XGBoost-orange?style=flat-square"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%"><b>AI Principles</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Multi--Agent%20Systems-LangChain-teal?style=flat-square"/>
-      <img src="https://img.shields.io/badge/RAG-Vector%20Search%20(FAISS)-blue?style=flat-square"/>
-      <img src="https://img.shields.io/badge/LLM-Groq%20LLaMA--3.1-orange?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Search-BFS%20%2F%20Minimax-orange?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Probability-Bayesian%20Networks%20%26%20PageRank-blue?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Learning-Q--Learning%20%26%20k--NN-crimson?style=flat-square"/>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🌟 Featured Projects Portfolio
-
-#### 🏆 Flagship AI & Systems
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/waseemqasim804-pk/Harvards-CS50-Artificial-Intelligence-Projects">Harvard CS50 AI: 12-Project Portfolio</a></h3>
-      <p>Complete collection of 12 Artificial Intelligence projects: Graph Search (Degrees), Minimax Game AI (Tic-Tac-Toe), Propositional Logic (Knights), Knowledge-Based AI (Minesweeper), PageRank Algorithm, Bayesian Networks (Heredity), Constraint Satisfaction Problems (Crossword), Supervised Machine Learning (Shopping), Q-Learning (Nim), Deep Convolutional Neural Networks (Traffic), Natural Language Parsing (Parser), and Transformer Attention (Attention).</p>
-      <p>
-        <img src="https://img.shields.io/badge/CS50%20AI-12%20Projects%20Completed-brightgreen?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 <a href="https://github.com/waseemqasim804-pk/FYP-HireGenAI-AI-Powered-Interview-System">FYP: HireGenAI — AI-Powered Interview System</a></h3>
-      <p><b>Final Year Project:</b> A multimodal AI recruitment platform featuring a <b>3D virtual interviewer avatar (Three.js)</b>, speech recognition (Vosk/Whisper), dynamic question generation (Groq LLaMA 3.1), automated proctoring and gaze tracking (MediaPipe and YOLOv8), and PDF-based interview evaluation reports.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React%2018-Three.js-61DAFB?style=flat-square"/>
-        <img src="https://img.shields.io/badge/FastAPI-Python-3776AB?style=flat-square"/>
-        <img src="https://img.shields.io/badge/MediaPipe-YOLOv8-0097A7?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/waseemqasim804-pk/BizIntel-Business-Analytics-Platform">BizIntel: Business Intelligence &amp; Sales Analytics</a></h3>
-      <p>Full-stack business analytics platform featuring interactive <b>Chart.js</b> visualizations (Bar, Line, and Pie charts), revenue KPI tracking, product performance monitoring, inventory anomaly alerts, and JWT-based authentication using <b>Sequelize ORM and MySQL</b>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React%2018-Vite-61DAFB?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Node.js-Express-339933?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Sequelize-MySQL-52B0E7?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔍 <a href="https://github.com/waseemqasim804-pk/RAG-interview-assistant">RAG Interview Assistant</a></h3>
-      <p>An intelligent Retrieval-Augmented Generation assistant for interview preparation, combining semantic document retrieval with contextual AI responses using LangChain, FAISS vector search, embeddings, and Large Language Models.</p>
-      <p>
-        <img src="https://img.shields.io/badge/NLP-RAG-blue?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Vector%20Search-Embeddings-purple?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/waseemqasim804-pk/project1">Full-Stack Application (Project 1)</a></h3>
-      <p>Modular full-stack web application featuring responsive frontend design, RESTful API architecture, and database integration.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Full%20Stack-Web-success?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/waseemqasim804-pk/Agentic-AI-Air-Quality-Prediction">Agentic AI for Real-Time Air Quality Prediction</a></h3>
-      <p>An environmental intelligence system combining an <b>XGBoost</b> regression model (<b>R² = 0.9929</b>, MAE = 0.85), <b>SHAP</b>-based explainable AI, asynchronous <b>FastAPI</b> backend, and a <b>LangChain multi-agent framework</b>, with a Streamlit dashboard and simulated IoT sensor network.</p>
-      <p>
-        <img src="https://img.shields.io/badge/XGBoost-R%C2%B2%3D0.9929-orange?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Multi--Agent-LangChain-teal?style=flat-square"/>
-        <img src="https://img.shields.io/badge/FastAPI-Streamlit-009688?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Activity & Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waseemqasim804-pk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseemqasim804-pk&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 ---
 
+## 👋 Hi, I'm Waseem!
+
+I'm a Software Engineer and AI/ML developer based in Lahore, Pakistan, with a Bachelor's degree in Computer Science from The University of Lahore.
+
+I enjoy building intelligent applications that combine machine learning, language models, computer vision, and modern software engineering.
+
+My work focuses on turning AI concepts into practical applications, from AI-powered recruitment systems and retrieval-augmented generation to predictive analytics and full-stack platforms.
+
+I believe in learning by building, solving real problems, and continuously improving the way software is designed and developed.
+
+---
+
+## 🧠 What I Work On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Artificial Intelligence
+
+* AI-powered applications
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation
+* Multi-agent systems
+* Natural Language Processing
+
+</td>
+<td width="50%" valign="top">
+
+### Machine Learning
+
+* Predictive modeling
+* Model training and evaluation
+* Deep learning
+* Data preprocessing
+* Computer vision
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Software Engineering
+
+* Python and FastAPI
+* React.js development
+* RESTful APIs
+* WebSockets
+* Database integration
+
+</td>
+<td width="50%" valign="top">
+
+### Applied AI Systems
+
+* Intelligent recruitment platforms
+* Environmental prediction
+* Business analytics
+* AI-assisted automation
+* Real-time applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science**
+The University of Lahore, Lahore, Pakistan
+February 2022 - February 2026
+
+**CGPA:** 3.67 / 4.00
+
+---
+
+## 💼 Professional Experience
+
+### AI Intern | EnigmaDesk
+
+**Lahore, Pakistan | July 2026 - September 2026**
+
+* Worked with the AI and Data Intelligence team on assigned projects.
+* Applied AI concepts to practical development tasks.
+* Gained hands-on exposure to AI and data intelligence workflows.
+
+### AI/ML Trainee | NETSOL Technologies Limited
+
+**NAVTTC-Certified Program | March 2026 - June 2026**
+
+* Practiced data preprocessing, analysis, and predictive modeling.
+* Studied machine learning model development, training, and evaluation.
+* Explored NLP, LLMs, RAG, and model fine-tuning.
+
+### React Developer Intern | Bright-Line Solutions (Pvt.) Ltd.
+
+**September 2025**
+
+* Developed practical skills in React.js and frontend development.
+* Worked on assigned interface and application development tasks.
+
+---
+
+## 🛠️ Technical Skills
+
 <div align="center">
-  <i>Committed to technical excellence, continuous learning, and impactful AI engineering.</i>
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" alt="Programming languages"/>
+
+### AI, Machine Learning & Data Science
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI and ML technologies"/>
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square"/>
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square"/>
+<img src="https://img.shields.io/badge/SHAP-5B8FF9?style=flat-square"/>
+</p>
+
+### Web Development & Backend
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,express&theme=dark" alt="Web development technologies"/>
+
+### Databases, Cloud & Development Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,azure,git,github,linux,postman&theme=dark" alt="Tools and platforms"/>
+
+</div>
+
+### Additional Technologies
+
+* **AI & NLP:** LLMs, RAG, LangChain, FAISS, Groq, model fine-tuning.
+* **Computer Vision:** OpenCV, YOLOv8, object detection.
+* **Backend:** FastAPI, Node.js, REST APIs, WebSockets.
+* **Data:** Data preprocessing, predictive modeling, model evaluation.
+* **Development:** Git, GitHub, Linux, Jupyter Notebook.
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SELECTED_WORK-2026-0E7490?style=for-the-badge"/>
+
+</div>
+
+### 01. 🧠 Harvard CS50 AI | Artificial Intelligence Portfolio
+
+<a href="https://github.com/waseemqasim804-pk/Harvards-CS50-Artificial-Intelligence-Projects">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/12_AI_PROJECTS-Completed-16A34A?style=for-the-badge"/>
+
+A collection of 12 practical AI projects completed as part of Harvard's CS50 Introduction to Artificial Intelligence with Python.
+
+**Topics explored:**
+
+* Search algorithms: Degrees
+* Minimax game AI: Tic-Tac-Toe
+* Propositional logic: Knights
+* Knowledge-based AI: Minesweeper
+* PageRank algorithm
+* Bayesian networks: Heredity
+* Constraint satisfaction: Crossword
+* Supervised machine learning: Shopping
+* Reinforcement learning: Nim
+* Deep learning and CNNs: Traffic
+* Natural language parsing: Parser
+* Transformer attention: Attention
+
+**Technologies:** Python, NumPy, TensorFlow, scikit-learn, NLTK, Transformers.
+
+---
+
+### 02. 🎯 HireGen-AI | AI-Powered Recruitment Platform
+
+<a href="https://github.com/waseemqasim804-pk/FYP-HireGenAI-AI-Powered-Interview-System">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/FINAL_YEAR_PROJECT-2563EB?style=for-the-badge"/>
+
+An AI-assisted recruitment platform designed to support resume screening, adaptive interviews, and structured candidate assessment.
+
+**Key components:**
+
+* AI-assisted resume screening and interview workflows.
+* Dynamic interview functionality powered by Groq LLM.
+* Computer vision integration with YOLOv8.
+* Real-time communication using WebSockets.
+* React.js frontend and FastAPI backend.
+* Supabase storage and Azure deployment.
+
+**Technologies:** Python, FastAPI, React.js, Groq LLM, YOLOv8, Supabase, WebSockets, Azure.
+
+---
+
+### 03. 📊 BizIntel | Business Intelligence & Sales Analytics
+
+<a href="https://github.com/waseemqasim804-pk/BizIntel-Business-Analytics-Platform">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+A full-stack business analytics platform designed to help monitor business performance through interactive dashboards and reporting.
+
+**Key components:**
+
+* Interactive revenue and sales visualizations.
+* Executive KPI monitoring.
+* Product performance tracking.
+* Inventory anomaly alerts.
+* JWT-based authentication.
+* Database integration using Sequelize and MySQL.
+
+**Technologies:** React.js, Vite, Chart.js, Node.js, Express.js, Sequelize, MySQL.
+
+---
+
+### 04. 🌍 Agentic AI | Real-Time Air Quality Prediction
+
+<a href="https://github.com/waseemqasim804-pk/Agentic-AI-Air-Quality-Prediction">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+An environmental intelligence system combining predictive machine learning, explainable AI, and multi-agent workflows.
+
+**Key components:**
+
+* XGBoost-based air quality prediction.
+* SHAP-based model explainability.
+* LangChain multi-agent framework.
+* Asynchronous FastAPI backend.
+* Streamlit dashboard.
+* Simulated IoT sensor network.
+
+**Reported model performance:** R² = 0.9929 | MAE = 0.85
+
+**Technologies:** Python, XGBoost, SHAP, LangChain, FastAPI, Streamlit.
+
+---
+
+## 🧭 Current Focus
+
+<div align="center">
+
+```mermaid
+flowchart TD
+    A["🧠 Artificial Intelligence"] --> B["📊 Machine Learning"]
+    B --> C["🔬 Deep Learning"]
+    C --> D["💻 Software Engineering"]
+    D --> E["🚀 AI-Powered Applications"]
+
+    style A fill:#164E63,color:#fff,stroke:#38BDF8
+    style B fill:#164E63,color:#fff,stroke:#38BDF8
+    style C fill:#164E63,color:#fff,stroke:#38BDF8
+    style D fill:#164E63,color:#fff,stroke:#38BDF8
+    style E fill:#1D4ED8,color:#fff,stroke:#60A5FA
+```
+
+</div>
+
+Currently focused on strengthening my machine learning and software engineering foundations while developing practical AI applications.
+
+---
+
+## 🏆 Achievements & Certifications
+
+### Achievements
+
+* Awarded a **50% merit-based tuition scholarship** throughout the BS Computer Science degree.
+* Completed the CS50 AI portfolio consisting of 12 practical projects.
+
+### Certifications & Training
+
+| Certification / Program                  | Institution                 | Date           |
+| ---------------------------------------- | --------------------------- | -------------- |
+| Introduction to Artificial Intelligence  | The University of Lahore    | November 2025  |
+| AI/ML Training, NAVTTC-Certified Program | NETSOL Technologies Limited | June 2026      |
+| React Developer Internship               | Bright-Line Solutions       | September 2025 |
+
+**Additional learning:** CS50's Introduction to Artificial Intelligence with Python, Harvard CS50.
+
+---
+
+## 🎯 Goals
+
+* 🚀 Build practical AI and machine learning applications.
+* 💻 Strengthen software engineering and backend development skills.
+* 🏗️ Develop reliable, production-ready applications.
+* 🌎 Contribute to open-source projects.
+* 📚 Continuously explore emerging technologies.
+* 🧠 Improve problem-solving and algorithmic thinking.
+
+---
+
+## 🌐 Languages
+
+* English
+* Urdu
+* Punjabi
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/waseemqasim804-pk">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=waseemqasim804-pk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/waseemqasim804-pk">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseemqasim804-pk&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</a>
+
+<br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=waseemqasim804-pk&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 📌 All Projects & Repositories
+
+Explore more of my development work:
+
+| Project                       | Description                                     | Repository                                                                                  |
+| ----------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| CS50 AI Portfolio             | 12 practical Artificial Intelligence projects   | [View](https://github.com/waseemqasim804-pk/Harvards-CS50-Artificial-Intelligence-Projects) |
+| HireGen-AI                    | AI-powered recruitment and interview platform   | [View](https://github.com/waseemqasim804-pk/FYP-HireGenAI-AI-Powered-Interview-System)      |
+| BizIntel                      | Business intelligence and sales analytics       | [View](https://github.com/waseemqasim804-pk/BizIntel-Business-Analytics-Platform)           |
+| Agentic AI Air Quality        | Predictive environmental intelligence           | [View](https://github.com/waseemqasim804-pk/Agentic-AI-Air-Quality-Prediction)              |
+| RAG Interview Assistant       | Retrieval-augmented interview assistant         | [View](https://github.com/waseemqasim804-pk/RAG-interview-assistant)                        |
+| Full-Stack Application        | Modular web application                         | [View](https://github.com/waseemqasim804-pk/project1)                                       |
+| Study Group Management System | Collaborative platform using React and Firebase | Project details in CV                                                                       |
+| E-Learning Platform           | Interactive learning website                    | Project details in CV                                                                       |
+| Car Parking System            | C++, OOP and data structures project            | Project details in CV                                                                       |
+
+---
+
+<div align="center">
+
+### 💬 Developer Quote
+
+> First, solve the problem. Then, write the code.
+
+<br/>
+
+### ⭐ Thanks for Visiting!
+
+Thanks for exploring my profile. Feel free to browse my repositories, share feedback, or connect with me.
+
+**Let's build something meaningful with technology.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:164E63,100:0F172A&height=110&section=footer"/>
+
 </div>
