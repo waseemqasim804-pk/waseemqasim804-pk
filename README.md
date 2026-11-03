@@ -82,7 +82,7 @@ Artificial Intelligence and Machine Learning specialist focused on creating auto
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/waseemqasim804-pk/Harvards-CS50-Artificial-Intelligence-Projects">Harvard CS50AI: 12-Project Master Portfolio</a></h3>
+      <h3>🧠 <a href="https://github.com/waseemqasim804-pk/Harvards-CS50-Artificial-Intelligence-Projects">Harvard CS50AI: 12-Project Portfolio</a></h3>
       <p>Complete suite of 12 Artificial Intelligence implementations: Graph Search (Degrees), Minimax Game AI (TicTacToe), Knowledge Inference (Knights & Minesweeper), Markov Chains (PageRank), Bayesian Networks (Heredity), Constraint Satisfaction (Crossword), Supervised ML (Shopping), Q-Learning (Nim), Deep CNNs (Traffic), and Transformers (Attention).</p>
       <p>
         <img src="https://img.shields.io/badge/CS50%20AI-100%25%20Verified-brightgreen?style=flat-square"/>
