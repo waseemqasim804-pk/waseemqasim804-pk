@@ -65,20 +65,20 @@ Artificial Intelligence and Full-Stack Software specialist focused on creating a
 ### 🌟 Featured Projects Portfolio
 
 #### 🏆 Flagship AI & Systems
+
 <table>
   <tr>
-     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/waseemqasim804-pk/Harvards-CS50-Artificial-Intelligence-Projects">Harvard CS50AI: 12-Project Master Portfolio</a></h3>
-      <p>Complete suite of 12 Artificial Intelligence implementations: Graph Search (Degrees), Minimax Game AI (TicTacToe), Knowledge Inference (Knights & Minesweeper), Markov Chains (PageRank), Bayesian Networks (Heredity), Constraint Satisfaction (Crossword), Supervised ML (Shopping), Q-Learning (Nim), Deep CNNs (Traffic), and Transformers (Attention).</p>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/waseemqasim804-pk/Harvards-CS50-Artificial-Intelligence-Projects">Harvard CS50 AI: 12-Project Portfolio</a></h3>
+      <p>Complete collection of 12 Artificial Intelligence projects: Graph Search (Degrees), Minimax Game AI (Tic-Tac-Toe), Propositional Logic (Knights), Knowledge-Based AI (Minesweeper), PageRank Algorithm, Bayesian Networks (Heredity), Constraint Satisfaction Problems (Crossword), Supervised Machine Learning (Shopping), Q-Learning (Nim), Deep Convolutional Neural Networks (Traffic), Natural Language Parsing (Parser), and Transformer Attention (Attention).</p>
       <p>
-        <img src="https://img.shields.io/badge/CS50%20AI-100%25%20Verified-brightgreen?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CS50%20AI-12%20Projects%20Completed-brightgreen?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/>
       </p>
     </td>
-   
     <td width="50%" valign="top">
-      <h3>🎯 <a href="https://github.com/waseemqasim804-pk/FYP-HireGenAI-AI-Powered-Interview-System">FYP: HireGenAI — AI Powered Interview System</a></h3>
-      <p><b>Final Year Project:</b> Multi-modal AI recruitment platform with a <b>3D virtual interviewer avatar (Three.js)</b>, speech recognition (Vosk/Whisper), dynamic question generation (Groq LLaMA-3.1), proctoring & gaze tracking (MediaPipe & YOLOv8), and automated PDF evaluation reports.</p>
+      <h3>🎯 <a href="https://github.com/waseemqasim804-pk/FYP-HireGenAI-AI-Powered-Interview-System">FYP: HireGenAI — AI-Powered Interview System</a></h3>
+      <p><b>Final Year Project:</b> A multimodal AI recruitment platform featuring a <b>3D virtual interviewer avatar (Three.js)</b>, speech recognition (Vosk/Whisper), dynamic question generation (Groq LLaMA 3.1), automated proctoring and gaze tracking (MediaPipe and YOLOv8), and PDF-based interview evaluation reports.</p>
       <p>
         <img src="https://img.shields.io/badge/React%2018-Three.js-61DAFB?style=flat-square"/>
         <img src="https://img.shields.io/badge/FastAPI-Python-3776AB?style=flat-square"/>
@@ -86,10 +86,11 @@ Artificial Intelligence and Full-Stack Software specialist focused on creating a
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/waseemqasim804-pk/BizIntel-Business-Analytics-Platform">BizIntel: Business Intelligence & Sales Analytics</a></h3>
-      <p>Full-stack enterprise analytics platform featuring dynamic <b>Chart.js</b> visualizations (Bar, Line, Pie), executive revenue KPI tracking, product velocity monitoring, inventory anomaly alerts, and secure JWT authentication backed by <b>Sequelize ORM & MySQL</b>.</p>
+      <h3>📊 <a href="https://github.com/waseemqasim804-pk/BizIntel-Business-Analytics-Platform">BizIntel: Business Intelligence &amp; Sales Analytics</a></h3>
+      <p>Full-stack business analytics platform featuring interactive <b>Chart.js</b> visualizations (Bar, Line, and Pie charts), revenue KPI tracking, product performance monitoring, inventory anomaly alerts, and JWT-based authentication using <b>Sequelize ORM and MySQL</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/React%2018-Vite-61DAFB?style=flat-square"/>
         <img src="https://img.shields.io/badge/Node.js-Express-339933?style=flat-square"/>
@@ -98,25 +99,25 @@ Artificial Intelligence and Full-Stack Software specialist focused on creating a
     </td>
     <td width="50%" valign="top">
       <h3>🔍 <a href="https://github.com/waseemqasim804-pk/RAG-interview-assistant">RAG Interview Assistant</a></h3>
-      <p>An intelligent retrieval-augmented generation assistant for interview preparation, synthesizing semantic knowledge retrieval with real-time conversational reasoning using LangChain, FAISS vector embeddings, and LLMs.</p>
+      <p>An intelligent Retrieval-Augmented Generation assistant for interview preparation, combining semantic document retrieval with contextual AI responses using LangChain, FAISS vector search, embeddings, and Large Language Models.</p>
       <p>
         <img src="https://img.shields.io/badge/NLP-RAG-blue?style=flat-square"/>
         <img src="https://img.shields.io/badge/Vector%20Search-Embeddings-purple?style=flat-square"/>
       </p>
     </td>
   </tr>
+
   <tr>
-   
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/waseemqasim804-pk/project1">Full-Stack Application (Project 1)</a></h3>
-      <p>Full-stack modular web application implementing responsive design, RESTful API architecture, and database integrations.</p>
+      <p>Modular full-stack web application featuring responsive frontend design, RESTful API architecture, and database integration.</p>
       <p>
         <img src="https://img.shields.io/badge/Full%20Stack-Web-success?style=flat-square"/>
       </p>
     </td>
-     <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3>📄 <a href="https://github.com/waseemqasim804-pk/Agentic-AI-Air-Quality-Prediction">Agentic AI for Real-Time Air Quality Prediction</a></h3>
-      <p>An autonomous environmental intelligence system integrating an <b>XGBoost</b> regressor (<b>R² = 0.9929</b>, MAE = 0.85), <b>SHAP</b> explainable AI, asynchronous <b>FastAPI</b> backend, and a <b>LangChain multi-agent framework</b> with Streamlit dashboard and simulated IoT sensor network.</p>
+      <p>An environmental intelligence system combining an <b>XGBoost</b> regression model (<b>R² = 0.9929</b>, MAE = 0.85), <b>SHAP</b>-based explainable AI, asynchronous <b>FastAPI</b> backend, and a <b>LangChain multi-agent framework</b>, with a Streamlit dashboard and simulated IoT sensor network.</p>
       <p>
         <img src="https://img.shields.io/badge/XGBoost-R%C2%B2%3D0.9929-orange?style=flat-square"/>
         <img src="https://img.shields.io/badge/Multi--Agent-LangChain-teal?style=flat-square"/>
