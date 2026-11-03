@@ -1,16 +1,97 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,11,14&height=220&section=header&text=Waseem%20Qasim&fontSize=60&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%"/>
+</div>
 
-<!--
-**waseemqasim804-pk/waseemqasim804-pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/waseemqasim804-pk"><img src="https://img.shields.io/badge/GitHub-waseemqasim804--pk-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge"/>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+Artificial Intelligence and Machine Learning specialist focused on creating robust algorithmic solutions, reinforcement learning systems, and deep learning architectures. Certified in **Harvard CS50's Introduction to Artificial Intelligence with Python** with an officially verified 100% completion across all modules.
+
+- 🎓 **Focus:** Artificial Intelligence, Computer Vision, Probabilistic Inference, and Retrieval-Augmented Generation
+- 🏆 **Harvard CS50 AI:** 12/12 Projects Submitted and Verified with 100% Grade
+- 🚀 **Core Interests:** Deep Learning Classifiers, Transformer Attention, and Autonomous Game AI
+
+---
+
+### 🛠 Technical Skillset
+
+<table align="center" width="100%">
+  <tr>
+    <td width="20%"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>Frameworks & ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NLTK-154f5b?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>AI Principles</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Search-BFS%20%2F%20Minimax%20w%2F%20Alpha--Beta-orange?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Logic-Propositional%20Model%20Checking-purple?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Probability-Bayesian%20Networks%20%26%20PageRank-blue?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Optimization-Constraint%20Satisfaction%20(AC--3)-yellow?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Learning-Q--Learning%20%26%20k--NN-crimson?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Transformers-BERT%20Attention%20Mechanisms-teal?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌟 Featured Flagship Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/waseemqasim804-pk/CS50AI-Artificial-Intelligence-Projects">Harvard CS50AI: 12-Project Master Portfolio</a></h3>
+      <p>Complete suite of 12 Artificial Intelligence implementations: Graph Search (Degrees), Minimax Game AI (TicTacToe), Knowledge Inference (Knights & Minesweeper), Markov Chains (PageRank), Bayesian Networks (Heredity), Constraint Satisfaction (Crossword), Supervised ML (Shopping), Q-Learning (Nim), Deep CNNs (Traffic), and Transformers (Attention).</p>
+      <p>
+        <img src="https://img.shields.io/badge/CS50%20AI-100%25%20Verified-brightgreen?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Deep%20Learning-CNNs-orange?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/waseemqasim804-pk/RAG-interview-assistant">RAG Interview Assistant</a></h3>
+      <p>An intelligent retrieval-augmented generation assistant for interview preparation, synthesizing semantic knowledge retrieval with real-time conversational reasoning.</p>
+      <p>
+        <img src="https://img.shields.io/badge/NLP-RAG-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Vector%20Search-Embeddings-purple?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity & Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waseemqasim804-pk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseemqasim804-pk&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
+
+---
+
+<div align="center">
+  <i>Committed to technical excellence, continuous learning, and impactful AI engineering.</i>
+</div>
