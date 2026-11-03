@@ -36,33 +36,6 @@ I believe in learning by building, solving real problems, and continuously impro
 
 ---
 
-## 🧠 What I Work On
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Artificial Intelligence</h3>
-      <p>I explore AI-powered applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), multi-agent systems, and Natural Language Processing (NLP) to build intelligent solutions that understand context, retrieve information, and automate complex tasks.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Machine Learning</h3>
-      <p>I work on predictive modeling, data preprocessing, model training, and evaluation, applying machine learning and deep learning techniques to identify patterns, generate insights, and develop data-driven solutions, including computer vision applications.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Software Engineering</h3>
-      <p>I develop web applications and backend services using Python, FastAPI, and React.js, with experience in RESTful API development, WebSockets, database integration, and building responsive applications with structured and maintainable code.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Applied AI Systems</h3>
-      <p>I focus on integrating AI into practical software solutions, including intelligent recruitment platforms, environmental prediction systems, business analytics, AI-assisted automation, and real-time applications that connect machine learning capabilities with modern software development.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🎓 Education
 
 <table>
@@ -138,14 +111,6 @@ I believe in learning by building, solving real problems, and continuously impro
 <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,azure,git,github,linux,postman&theme=dark" alt="Tools and platforms"/>
 
 </div>
-
-### Additional Technologies
-
-* **AI & NLP:** LLMs, RAG, LangChain, FAISS, Groq, model fine-tuning.
-* **Computer Vision:** OpenCV, YOLOv8, object detection.
-* **Backend:** FastAPI, Node.js, REST APIs, WebSockets.
-* **Data:** Data preprocessing, predictive modeling, model evaluation.
-* **Development:** Git, GitHub, Linux, Jupyter Notebook.
 
 ---
 
@@ -248,6 +213,33 @@ An environmental intelligence system combining predictive machine learning, expl
 **Reported model performance:** R² = 0.9929 | MAE = 0.85
 
 **Technologies:** Python, XGBoost, SHAP, LangChain, FastAPI, Streamlit.
+
+---
+
+## 🧠 What I Work On
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Artificial Intelligence</h3>
+      <p>I explore AI-powered applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), multi-agent systems, and Natural Language Processing (NLP) to build intelligent solutions that understand context, retrieve information, and automate complex tasks.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Machine Learning</h3>
+      <p>I work on predictive modeling, data preprocessing, model training, and evaluation, applying machine learning and deep learning techniques to identify patterns, generate insights, and develop data-driven solutions, including computer vision applications.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Software Engineering</h3>
+      <p>I develop web applications and backend services using Python, FastAPI, and React.js, with experience in RESTful API development, WebSockets, database integration, and building responsive applications with structured and maintainable code.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Applied AI Systems</h3>
+      <p>I focus on integrating AI into practical software solutions, including intelligent recruitment platforms, environmental prediction systems, business analytics, AI-assisted automation, and real-time applications that connect machine learning capabilities with modern software development.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
