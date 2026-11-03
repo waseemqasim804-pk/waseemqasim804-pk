@@ -39,54 +39,26 @@ I believe in learning by building, solving real problems, and continuously impro
 ## 🧠 What I Work On
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### Artificial Intelligence
-
-* AI-powered applications
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation
-* Multi-agent systems
-* Natural Language Processing
-
-</td>
-<td width="50%" valign="top">
-
-### Machine Learning
-
-* Predictive modeling
-* Model training and evaluation
-* Deep learning
-* Data preprocessing
-* Computer vision
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Software Engineering
-
-* Python and FastAPI
-* React.js development
-* RESTful APIs
-* WebSockets
-* Database integration
-
-</td>
-<td width="50%" valign="top">
-
-### Applied AI Systems
-
-* Intelligent recruitment platforms
-* Environmental prediction
-* Business analytics
-* AI-assisted automation
-* Real-time applications
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Artificial Intelligence</h3>
+      <p>I explore AI-powered applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), multi-agent systems, and Natural Language Processing (NLP) to build intelligent solutions that understand context, retrieve information, and automate complex tasks.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Machine Learning</h3>
+      <p>I work on predictive modeling, data preprocessing, model training, and evaluation, applying machine learning and deep learning techniques to identify patterns, generate insights, and develop data-driven solutions, including computer vision applications.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Software Engineering</h3>
+      <p>I develop web applications and backend services using Python, FastAPI, and React.js, with experience in RESTful API development, WebSockets, database integration, and building responsive applications with structured and maintainable code.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Applied AI Systems</h3>
+      <p>I focus on integrating AI into practical software solutions, including intelligent recruitment platforms, environmental prediction systems, business analytics, AI-assisted automation, and real-time applications that connect machine learning capabilities with modern software development.</p>
+    </td>
+  </tr>
 </table>
 
 ---
