@@ -163,6 +163,23 @@ I believe in learning by building, solving real problems, and continuously impro
 
 ---
 
+## 🏆 Achievements & Certifications
+
+### Achievements
+
+* Awarded a **50% merit-based tuition scholarship** throughout the BS Computer Science degree.
+* Completed the CS50 AI portfolio consisting of 12 practical projects.
+
+### Certifications & Training
+
+| Certification                            | Institution                 | Date           |
+| ---------------------------------------- | --------------------------- | -------------- |
+| CS50's Introduction to AI with Python    | Harvard CS50                | November 2026  |
+| NAVTTC AI/ML Program                     | NETSOL Technologies Limited | June 2026      |
+| Introduction to Artificial Intelligence  | The University of Lahore    | November 2025  |
+
+---
+
 ## 🧠 What I Work On
 
 <table>
@@ -187,60 +204,6 @@ I believe in learning by building, solving real problems, and continuously impro
     </td>
   </tr>
 </table>
-
----
-
-## 🧭 Current Focus
-
-<div align="center">
-
-```mermaid
-flowchart TD
-    A["🧠 Artificial Intelligence"] --> B["📊 Machine Learning"]
-    B --> C["🔬 Deep Learning"]
-    C --> D["💻 Software Engineering"]
-    D --> E["🚀 AI-Powered Applications"]
-
-    style A fill:#164E63,color:#fff,stroke:#38BDF8
-    style B fill:#164E63,color:#fff,stroke:#38BDF8
-    style C fill:#164E63,color:#fff,stroke:#38BDF8
-    style D fill:#164E63,color:#fff,stroke:#38BDF8
-    style E fill:#1D4ED8,color:#fff,stroke:#60A5FA
-```
-
-</div>
-
-Currently focused on strengthening my machine learning and software engineering foundations while developing practical AI applications.
-
----
-
-## 🏆 Achievements & Certifications
-
-### Achievements
-
-* Awarded a **50% merit-based tuition scholarship** throughout the BS Computer Science degree.
-* Completed the CS50 AI portfolio consisting of 12 practical projects.
-
-### Certifications & Training
-
-| Certification / Program                  | Institution                 | Date           |
-| ---------------------------------------- | --------------------------- | -------------- |
-| Introduction to Artificial Intelligence  | The University of Lahore    | November 2025  |
-| AI/ML Training, NAVTTC-Certified Program | NETSOL Technologies Limited | June 2026      |
-| React Developer Internship               | Bright-Line Solutions       | September 2025 |
-
-**Additional learning:** CS50's Introduction to Artificial Intelligence with Python, Harvard CS50.
-
----
-
-## 🎯 Goals
-
-* 🚀 Build practical AI and machine learning applications.
-* 💻 Strengthen software engineering and backend development skills.
-* 🏗️ Develop reliable, production-ready applications.
-* 🌎 Contribute to open-source projects.
-* 📚 Continuously explore emerging technologies.
-* 🧠 Improve problem-solving and algorithmic thinking.
 
 ---
 
