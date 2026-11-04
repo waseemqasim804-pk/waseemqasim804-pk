@@ -247,9 +247,9 @@ Explore more of my development work:
 | Agentic AI Air Quality        | Predictive environmental intelligence           | [View](https://github.com/waseemqasim804-pk/Agentic-AI-Air-Quality-Prediction)              |
 | RAG Interview Assistant       | Retrieval-augmented interview assistant         | [View](https://github.com/waseemqasim804-pk/RAG-interview-assistant)                        |
 | Full-Stack Application        | Modular web application                         | [View](https://github.com/waseemqasim804-pk/project1)                                       |
-| Study Group Management System | Collaborative platform using React and Firebase | Project details in CV                                                                       |
-| E-Learning Platform           | Interactive learning website                    | Project details in CV                                                                       |
-| Car Parking System            | C++, OOP and data structures project            | Project details in CV                                                                       |
+| Study Group Management System | Collaborative platform using React and Firebase |                                                                                             |
+| E-Learning Platform           | Interactive learning website                    |                                                                                             |
+| Car Parking System            | C++, OOP and data structures project            |                                                                                             |
 
 ---
 
