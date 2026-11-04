@@ -117,7 +117,49 @@ I believe in learning by building, solving real problems, and continuously impro
 ## 🌟 Featured Projects
 
 🏆 Flagship AI & Systems
-<table> <tr> <td width="50%" valign="top"> <h3>🧠 <a href="https://github.com/waseemqasim804-pk/Harvards-CS50-Artificial-Intelligence-Projects">Harvard CS50 AI: 12-Project Portfolio</a></h3> <p>Complete collection of 12 Artificial Intelligence projects: Graph Search (Degrees), Minimax Game AI (Tic-Tac-Toe), Propositional Logic (Knights), Knowledge-Based AI (Minesweeper), PageRank Algorithm, Bayesian Networks (Heredity), Constraint Satisfaction Problems (Crossword), Supervised Machine Learning (Shopping), Q-Learning (Nim), Deep Convolutional Neural Networks (Traffic), Natural Language Parsing (Parser), and Transformer Attention (Attention).</p> <p> <img src="https://img.shields.io/badge/CS50%20AI-12%20Projects%20Completed-brightgreen?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/> </p> </td> <td width="50%" valign="top"> <h3>🎯 <a href="https://github.com/waseemqasim804-pk/FYP-HireGenAI-AI-Powered-Interview-System">FYP: HireGenAI — AI-Powered Interview System</a></h3> <p><b>Final Year Project:</b> A multimodal AI recruitment platform featuring a <b>3D virtual interviewer avatar (Three.js)</b>, speech recognition (Vosk/Whisper), dynamic question generation (Groq LLaMA 3.1), automated proctoring and gaze tracking (MediaPipe and YOLOv8), and PDF-based interview evaluation reports.</p> <p> <img src="https://img.shields.io/badge/React%2018-Three.js-61DAFB?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-Python-3776AB?style=flat-square"/> <img src="https://img.shields.io/badge/MediaPipe-YOLOv8-0097A7?style=flat-square"/> </p> </td> </tr> <tr> <td width="50%" valign="top"> <h3>📊 <a href="https://github.com/waseemqasim804-pk/BizIntel-Business-Analytics-Platform">BizIntel: Business Intelligence &amp; Sales Analytics</a></h3> <p>Full-stack business analytics platform featuring interactive <b>Chart.js</b> visualizations (Bar, Line, and Pie charts), revenue KPI tracking, product performance monitoring, inventory anomaly alerts, and JWT-based authentication using <b>Sequelize ORM and MySQL</b>.</p> <p> <img src="https://img.shields.io/badge/React%2018-Vite-61DAFB?style=flat-square"/> <img src="https://img.shields.io/badge/Node.js-Express-339933?style=flat-square"/> <img src="https://img.shields.io/badge/Sequelize-MySQL-52B0E7?style=flat-square"/> </p> </td> <td width="50%" valign="top"> <h3>🔍 <a href="https://github.com/waseemqasim804-pk/RAG-interview-assistant">RAG Interview Assistant</a></h3> <p>An intelligent Retrieval-Augmented Generation assistant for interview preparation, combining semantic document retrieval with contextual AI responses using LangChain, FAISS vector search, embeddings, and Large Language Models.</p> <p> <img src="https://img.shields.io/badge/NLP-RAG-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Vector%20Search-Embeddings-purple?style=flat-square"/> </p> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🌐 <a href="https://github.com/waseemqasim804-pk/project1">Full-Stack Application (Project 1)</a></h3> <p>Modular full-stack web application featuring responsive frontend design, RESTful API architecture, and database integration.</p> <p> <img src="https://img.shields.io/badge/Full%20Stack-Web-success?style=flat-square"/> </p> </td> <td width="50%" valign="top"> <h3>📄 <a href="https://github.com/waseemqasim804-pk/Agentic-AI-Air-Quality-Prediction">Agentic AI for Real-Time Air Quality Prediction</a></h3> <p>An environmental intelligence system combining an <b>XGBoost</b> regression model (<b>R² = 0.9929</b>, MAE = 0.85), <b>SHAP</b>-based explainable AI, asynchronous <b>FastAPI</b> backend, and a <b>LangChain multi-agent framework</b>, with a Streamlit dashboard and simulated IoT sensor network.</p> <p> <img src="https://img.shields.io/badge/XGBoost-R%C2%B2%3D0.9929-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Multi--Agent-LangChain-teal?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-Streamlit-009688?style=flat-square"/> </p> </td> </tr> </table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/waseemqasim804-pk/Harvards-CS50-Artificial-Intelligence-Projects">Harvard CS50 AI | 12-Project Portfolio</a></h3>
+      <p>A comprehensive collection of 12 practical AI projects covering graph search, Minimax, propositional logic, knowledge-based systems, PageRank, Bayesian networks, constraint satisfaction, supervised learning, Q-learning, deep CNNs, natural language parsing, and transformer attention.</p>
+      <p>
+        <img src="https://img.shields.io/badge/CS50%20AI-12%20Projects%20Completed-16A34A?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 <a href="https://github.com/waseemqasim804-pk/FYP-HireGenAI-AI-Powered-Interview-System">HireGenAI | AI-Powered Interview System</a></h3>
+      <p>Final Year Project: A multimodal AI recruitment platform featuring a 3D virtual interviewer, speech recognition, dynamic question generation using Groq LLaMA 3.1, automated proctoring and gaze tracking with MediaPipe and YOLOv8, and PDF-based interview evaluation reports.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React%2018-Three.js-61DAFB?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FastAPI-Python-009688?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Computer%20Vision-YOLOv8-2563EB?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/waseemqasim804-pk/BizIntel-Business-Analytics-Platform">BizIntel | Business Intelligence &amp; Sales Analytics</a></h3>
+      <p>A business analytics platform featuring interactive Chart.js visualizations, revenue KPI tracking, product performance monitoring, inventory anomaly alerts, and JWT-based authentication with Sequelize ORM and MySQL.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React%2018-Vite-61DAFB?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Node.js-Express-339933?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 <a href="https://github.com/waseemqasim804-pk/Agentic-AI-Air-Quality-Prediction">Agentic AI | Real-Time Air Quality Prediction</a></h3>
+      <p>An environmental intelligence system combining XGBoost-based prediction (R² = 0.9929, MAE = 0.85), SHAP explainability, an asynchronous FastAPI backend, and a LangChain multi-agent framework with a Streamlit dashboard and simulated IoT sensor network.</p>
+      <p>
+        <img src="https://img.shields.io/badge/XGBoost-Machine%20Learning-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Explainable%20AI-SHAP-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/LangChain-Multi--Agent-16A085?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FastAPI-Streamlit-009688?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
